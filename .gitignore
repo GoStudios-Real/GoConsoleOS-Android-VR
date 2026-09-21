@@ -1,0 +1,10 @@
+﻿build/
+.gradle/
+local.properties
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+*.tmp
+app/build/
