@@ -140,3 +140,11 @@ MIT License — GoStudios Corporation
 - [GoConsoleOS](https://github.com/GoStudios-Real/GoConsoleOS)
 - [GoConsoleOS Android](https://github.com/GoStudios-Real/GoConsoleOS-Android)
 - [GoConsoleOS Web](https://github.com/GoStudios-Real/GoConsoleOS-Web)
+
+
+---
+
+## OpenCode
+
+This repository is maintained with [OpenCode](https://opencode.ai).
+Hub: https://gostudios-real.github.io/
